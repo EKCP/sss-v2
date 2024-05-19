@@ -27,7 +27,7 @@ Chattapp is a simple chat application that allows users to communicate in real-t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/IT21836336/Chattapp.git
+    git clone https://github.com/IT21836336/sss-v2.git
     cd Chattapp
     ```
 
